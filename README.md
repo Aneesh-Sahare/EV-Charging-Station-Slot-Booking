@@ -4,7 +4,7 @@ EV Charging Station Slot Booking
 This App Allows EV users to locate nearby charging stations, check availability and reserve charging slots in advance.
 
 
-   Minimum Hardware Requirements:
+*Minimum Hardware Requirements:
 
 Processor : 
 
@@ -12,9 +12,9 @@ Speed :
 
 RAM : 
 
-Hard Disk : 
+Hard Disk :
 
- Software Requirements:
+* Software Requirements:
 
 IDE : 
 
