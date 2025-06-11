@@ -8,16 +8,14 @@ This App Allows EV Users to Locate Nearby Charging Stations, Check Availability 
 
 Processor : Intel Core i5 or higher
 
-Speed : 
+RAM : 4GB or 8BG 
 
-RAM : 
-
-Hard Disk :
+Hard Disk :40GB
 
 * Software Requirements:
 
 IDE : 
 
-Coding Language :
+Coding Language :HTML, CSS, Python, MYsql
 
 Operating System : Windows 10, Windows 11
