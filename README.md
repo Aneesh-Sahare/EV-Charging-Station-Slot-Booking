@@ -1,4 +1,4 @@
-# Werego - Electric Vehicle Charging Station Finder
+## Electric Vehicle Charging Station Finder
 
 
 ## Overview
