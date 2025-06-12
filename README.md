@@ -29,7 +29,7 @@ Ensure you have the following software and tools installed:
 
 ## Usage
 
-Start the Application: Launch the Werego application.
+Start the Application: Launch the Web application.
 
 Search for Charging Stations: Use the search feature to find charging stations near you.
 
@@ -78,12 +78,3 @@ Searching Nearby Station
 Booking Page
 
 
-
-## Contributing
-We welcome contributions from the community to improve Werego. To contribute:
-
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Commit your changes and push them to your fork.
-Submit a pull request to the main repository.
- 
