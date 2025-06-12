@@ -1,4 +1,4 @@
-## Electric Vehicle Charging Station Finder
+## EV Charging Station Slot Booking
 
 
 ## Overview
